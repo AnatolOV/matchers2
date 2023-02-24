@@ -1,6 +1,6 @@
 import rateParticipant from '../app';
 
-console.log(rateParticipant);
+// console.log(rateParticipant);
 
 test('rateParticipant test', () => {
   const result = [
