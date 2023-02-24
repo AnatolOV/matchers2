@@ -1,4 +1,4 @@
-import { rateParticipant } from '../app';
+import rateParticipant from '../app';
 
 console.log(rateParticipant);
 
